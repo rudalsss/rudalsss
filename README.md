@@ -60,8 +60,8 @@
 <br>
 
 <div align="center">
-  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ☁ Status </h3>
+  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ☁ Activity Status </h3>
   <!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frudalsss%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rudalsss&show_icons=true&theme=dracula&locale=en" alt="rudalsss" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=rudalsss&show_icons=true&theme=dracula&locale=en" alt="rudalsss" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudalsss&show_icons=true&theme=tokyonight&bg_color=000000&locale=en&layout=compact" alt="rudalsss" />
 </div>
