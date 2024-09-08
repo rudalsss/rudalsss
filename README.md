@@ -46,7 +46,7 @@
 
 <div align="center">
   <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📒 My Pages </h3>
-  <a href="https://linda284.tistory.com"><img src="https://img.shields.io/badge/Tistory-232F3E?style=flat-square&logo=Tistory&logoColor=white&link=https://linda284.tistory.com/">
+  <a href="https://linda284.tistory.com"><img src="https://img.shields.io/badge/Tistory-E34F26?style=flat-square&logo=Tistory&logoColor=white&link=https://linda284.tistory.com/">
   <a href="https://github.com/rudalsss"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/rudalsss">
   <a href="https://blog.naver.com/linda284"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/linda284">
 </div>
