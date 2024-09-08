@@ -50,18 +50,20 @@
   <a href="https://github.com/rudalsss"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/rudalsss">
   <a href="https://blog.naver.com/linda284"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/linda284">
 </div>
-<br>
+<br><br>
 
 <div align="center">
   <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌈 Project </h3>
-  <p>📍 원데이클래스 홍보 및 수강예약, 결제 플랫폼 <a href="https://github.com/rudalsss/LiClass_project">LiClass</a> <br> 2023.02.21 ~ 2023.04.12 </p>
-  <p>📍 개인 맞춤형 구인구직 플랫폼 <a href="https://github.com/TABA-DaJobA">다잡아(DajobA)</a><br>2023.10 ~ 2023.12.18</p>
+  <p>📍 2023.02.21 ~ 2023.04.12 <br> 원데이클래스 홍보 및 수강예약, 결제 플랫폼 <a href="https://github.com/rudalsss/LiClass_project">LiClass</a><br></p><br>
+  <p>📍 2023.10 ~ 2023.12.18 <br> 개인 맞춤형 구인구직 플랫폼 <a href="https://github.com/TABA-DaJobA">다잡아(DajobA)</a><br> 🏆 TABA 4기 AI 팀프로젝트 최우수상(1등) 수상</p><br>
 </div>
 <br>
 
+<!--
 <div align="center">
   <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ☁ Activity Status </h3>
-  <!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frudalsss%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=rudalsss&show_icons=true&theme=dracula&locale=en" alt="rudalsss" /> -->
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frudalsss%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rudalsss&show_icons=true&theme=dracula&locale=en" alt="rudalsss" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudalsss&show_icons=true&theme=tokyonight&bg_color=000000&locale=en&layout=compact" alt="rudalsss" />
 </div>
+-->
