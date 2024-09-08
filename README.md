@@ -3,8 +3,20 @@
 </div>
 
 <div align="center">
-  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ☁About Me☁️ </h3>
+  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Study & Activity </h3>
+  <p>2019.03 ~ <br>단국대학교 사학과, 경영학과, 소프트웨어학과 전공<br></p>
+  <p>2022.09.05 ~ 2023.04.12 <br> KH정보교육원 강남 - (디지털컨버전스)자바(JAVA)기반 공공데이터 융합개발자 양성과정A9<br></p>
+  <p>2023.09.01 ~ 2023.12.18 <br> 캠퍼스SW 아카데미 TABA(Tmax AI Bigdata Academy) 4기 - 성적우수자(상위 10%이내)</p>
 </div>
+<br>
+
+<div align="center">
+  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💳 Certification </h3>
+  <p> SQL개발자(SQLD) (23.07.07) </p>
+  <p> 정보처리기사 (23.09.01) </p>
+  <p> 빅데이터분석실무 2급 (24.09.04) </p>
+</div>
+<br>
 
 <div align="center">
   <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stack </h3>
@@ -26,27 +38,26 @@
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
       </div>
     </div>
-    
 </div>
 
 <div align="center">
   <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📩 Contact me </h3>
-  <img src="https://img.shields.io/badge/Tistory-232F3E?style=flat-square&logo=Tistory&logoColor=white&link=https://linda284.tistory.com/">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/rudalsss">
-  <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/linda284">
+  <a href="https://linda284.tistory.com"><img src="https://img.shields.io/badge/Tistory-232F3E?style=flat-square&logo=Tistory&logoColor=white&link=https://linda284.tistory.com/">
+  <a href="https://github.com/rudalsss"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/rudalsss">
+  <a href="https://blog.naver.com/linda284"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/linda284">
 </div>
+<br>
 
 <div align="center">
-  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Experience & Activity </h3>
+  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎈 Project </h3>
 </div>
+<br>
 
 <div align="center">
-  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎈 Status </h3>
+  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ☁ Status </h3>
+</div>
   <!--<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frudalsss%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
-  <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudalsss&show_icons=true&theme=tokyonight&bg_color=000000&locale=en&layout=compact" alt="rudalsss" /></p>
-  <br>
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rudalsss&show_icons=true&theme=dracula&locale=en"   alt="rudalsss" /></p>
-  
-</div>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudalsss&show_icons=true&theme=tokyonight&bg_color=000000&locale=en&layout=compact" alt="rudalsss" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=rudalsss&show_icons=true&theme=dracula&locale=en"   alt="rudalsss" /></p>
 
 
