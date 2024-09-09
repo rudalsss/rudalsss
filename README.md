@@ -54,8 +54,15 @@
 
 <div align="center">
   <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌈 Project </h3>
-  <p>📍 2023.02.21 ~ 2023.04.12 <br> 원데이클래스 홍보 및 수강예약, 결제 플랫폼 <a href="https://github.com/rudalsss/LiClass_project">LiClass</a><br></p><br>
-  <p>📍 2023.10 ~ 2023.12.18 <br> 개인 맞춤형 구인구직 플랫폼 <a href="https://github.com/TABA-DaJobA">다잡아(DajobA)</a><br> 🏆 TABA 4기 AI 팀프로젝트 최우수상(1등) 수상</p><br>
+  <p>
+    📍 2023.02.21 ~ 2023.04.12 <br> 원데이클래스 홍보 및 수강예약, 결제 플랫폼 LiClass <br> 
+    <a href="https://github.com/rudalsss/LiClass_project">LiClass Github 클릭</a><br>
+  </p><br>
+  <p>
+    📍 2023.10 ~ 2023.12.18 <br> 개인 맞춤형 구인구직 플랫폼 다잡아(DajobA) <br>
+    <a href="https://github.com/TABA-DaJobA">DajobA Github 클릭</a>
+    <br> 🏆 TABA 4기 AI 팀프로젝트 최우수상(1등) 수상
+  </p><br>
 </div>
 <br>
 
