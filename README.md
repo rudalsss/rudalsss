@@ -15,7 +15,6 @@
   <div style="text-align: left;">
     <div style="margin: ; text-align: left;" "text-align: left;"> 
           <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"><br>
@@ -56,11 +55,11 @@
   <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌈 Project </h3>
   <p>
     📍 2023.02.21 ~ 2023.04.12 <br> 원데이클래스 홍보 및 수강예약, 결제 플랫폼 LiClass <br> 
-    <a href="https://github.com/rudalsss/LiClass_project">LiClass Github 클릭</a><br>
+    <a href="https://github.com/rudalsss/LiClass_project">LiClass Github 바로가기</a><br>
   </p><br>
   <p>
     📍 2023.10 ~ 2023.12.18 <br> 개인 맞춤형 구인구직 플랫폼 다잡아(DajobA) <br>
-    <a href="https://github.com/TABA-DaJobA">DajobA Github 클릭</a>
+    <a href="https://github.com/TABA-DaJobA">DajobA Github 바로가기</a>
     <br> 🏆 TABA 4기 AI 팀프로젝트 최우수상(1등) 수상
   </p><br>
 </div>
