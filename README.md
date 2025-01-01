@@ -1,3 +1,4 @@
+<!--
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome👋&fontSize=50&animation=fadeIn&fontAlignY=38&desc=kyungmin's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
 </div>
@@ -36,7 +37,7 @@
   <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💳 Certification </h3>
   <!--   <p> SQL개발자(SQLD) (2023.07.07) </p>
   <p> 정보처리기사 (2023.09.01) </p>
-  <p> 빅데이터분석실무 2급 (2024.09.04) </p> -->
+  <p> 빅데이터분석실무 2급 (2024.09.04) </p> 
   <p>
     SQL개발자(SQLD) (2023.07.07) <br> 정보처리기사 (2023.09.01) <br> 빅데이터분석실무 2급 (2024.09.04)
   </p>
@@ -50,9 +51,10 @@
   <a href="https://blog.naver.com/linda284"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/linda284">
 </div>
 <br><br>
-
-<div align="center">
-  <h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌈 Project </h3>
+-->
+    
+<div>
+  <!--<h3 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌈 Project </h3>-->
   <p>
     📍 2023.02.21 ~ 2023.04.12 <br> 원데이클래스 홍보 및 수강예약, 결제 플랫폼 LiClass <br> 
     <a href="https://github.com/rudalsss/LiClass_project">LiClass Github 바로가기</a><br>
@@ -60,7 +62,7 @@
   <p>
     📍 2023.10 ~ 2023.12.18 <br> 개인 맞춤형 구인구직 플랫폼 다잡아(DajobA) <br>
     <a href="https://github.com/TABA-DaJobA">DajobA Github 바로가기</a>
-    <br> 🏆 TABA 4기 AI 팀프로젝트 최우수상(1등) 수상
+    <br> 🏆 TABA(Tmax AI BigData Academy) 4기 AI 팀프로젝트 최우수상(1등) 수상
   </p><br>
 </div>
 <br>
