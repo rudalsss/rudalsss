@@ -64,6 +64,10 @@
     <a href="https://github.com/TABA-DaJobA">DajobA Github 바로가기</a>
     <br> 🏆 TABA(Tmax AI BigData Academy) 4기 AI 팀프로젝트 최우수상(1등) 수상
   </p><br>
+  <p>
+    📍 2025.02 <br> CJ 올리브영 온라인 쇼핑몰 인프라 구축 프로젝트<br>
+    <a href="https://github.com/CJ-Jungle-gym">CJ-Jungelgym 바로가기</a><br>
+  </p><br>
 </div>
 <br>
 
