@@ -47,14 +47,14 @@
   | 기간 | 프로젝트명 | 소개 | GitHub | 상태 | 비고 |
   |------|-------------|------|--------|------|------|
   | 2025.08 ~ | Finance-doc | | [🔗Finance-doc GitHub](https://github.com/K-PAAS1) | 🛠 개발 중 | 개방형 클라우드 플랫폼(K-PaaS) 활용 공모전 |
-  | 2025.08.04 ~ | (논의중) | | | 🛠 개발 중 | AWS GBSA 프로젝트 |
-  | 2025.08.01 ~ | (논의중) | | [🔗ALLNIGHT-PROJECT GitHub](https://github.com/ALLNIGHT-PROJECT) | 🛠 개발 중 | 508 AI 포텐데이 ❎ NAVER Cloud |
+  | 2025.08.04 ~ | SIGMA | 비접촉 모션 및 음성기반 컴퓨터 제어서비스 | [🔗SIGMA GitHub](https://github.com/AWS-AI-team3) | 🚀 개발완료, 운영중 | 🏆 2025 경기도 AWS 인공지능 전문인력 양성과정 프로젝트 발표회 최우수상(1등) 수상 |
   | 2025.04 ~ | Dmoim | 교내 동아리 모집 및 모임관리 앱 서비스 | [🔗Dmoim GitHub](https://github.com/9oormthonUNIV-DKU-Cumulus) | 🛠 개발 중 | 구름톤 유니브 단국대학교 |
   | 2025.03 ~ | PicPle | 유저참여형 사진명소 추천 앱 플랫폼 | [🔗PicPle GitHub](https://github.com/Just-12-More) | 🚀 1차 MVP 배포완료 | 단국대학교 캡스톤 디자인 프로젝트 |
   | 2025.02.07 ~ 2025.02.27 | CJ-Jungle-gym | CJ올리브영 온라인 쇼핑몰 클라우드 인프라 설계 및 구축 프로젝트 | [🔗CJ-Jungle-gym GitHub](https://github.com/CJ-Jungle-gym) | 🏁 배포 및 서비스 종료 | CJ CloudWave 4기 프로젝트 | 
-  | 2023.10 ~ 2023.12.18 | DajobA | AI기반 개인 맞춤형 구인구직 웹 플랫폼 | [🔗DajobA GitHub](https://github.com/TABA-DaJobA) | 🏁 배포 및 서비스 종료 | 🏆 TABA(Tmax AI BigData Academy) 4기 AI 팀프로젝트 최우수상(1등) 수상 |
+  | 2023.10 ~ 2023.12.18 | DajobA | AI기반 개인 맞춤형 구인구직 웹 플랫폼 | [🔗DajobA GitHub](https://github.com/TABA-DaJobA) | 🏁 배포 및 서비스 종료 | 🏆 TABA(Tmax AI BigData Academy) 4기 AI 팀프로젝트 발표회 최우수상(1등) 수상 |
   | 2023.02.21 ~ 2023.04.12 | LiClass | 원데이클래스 홍보 및 수강예약, 결제 웹 플랫폼 | [🔗LiClass GitHub](https://github.com/rudalsss/LiClass_project) | 🏁 배포 및 서비스 종료 |
   <!-- <p>
+  | 2025.08.01 ~ | (논의중) | | [🔗ALLNIGHT-PROJECT GitHub](https://github.com/ALLNIGHT-PROJECT) | 🛠 개발 중 | 508 AI 포텐데이 ❎ NAVER Cloud |
     📍 2023.02.21 ~ 2023.04.12 <br> 원데이클래스 홍보 및 수강예약, 결제 플랫폼 LiClass <br> 
     <a href="https://github.com/rudalsss/LiClass_project">LiClass Github 바로가기</a><br>
   </p><br>
